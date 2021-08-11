@@ -1,9 +1,8 @@
+<div align="center"><img src="https://media.giphy.com/media/eX6payp4mjhXwPocoX/giphy.gif" width="150px">
+</div>
 
 <div align="center">
 <img height="350px" src="./img/gitHubBanner.jpg">
-</div>
-
-<div align="center"><img src="https://media.giphy.com/media/eX6payp4mjhXwPocoX/giphy.gif" width="150px">
 </div>
 
 <h2 align="center"> Welcome to my GitHub.</h2>
