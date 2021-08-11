@@ -3,7 +3,9 @@
 
 <h1 align="center"> Welcome to my GitHub.</h1>
 
-![header img](./img/gitHubBanner.jpg)
+<div align="center">
+<img height="200px" src="./img/gitHubBanner.jpg">
+</div>
 
 <div align="center">
 <a href="mailto:sarah.f.jamieson@gmail.com"><img height="30" src="./img/emailIcon.png"></a>
