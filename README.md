@@ -2,10 +2,11 @@
 </div>
 
 <div align="center">
-<img height="300px" src="./img/gitHubBanner.jpg">
+<img height="500px" src="./img/gitHubBanner.jpg">
 </div>
 
 <h2 align="center"> Welcome to my GitHub.</h2>
+
 
 <div align="center">
 <a href="mailto:sarah.f.jamieson@gmail.com"><img height="40" src="./img/emailIcon.png"></a>
