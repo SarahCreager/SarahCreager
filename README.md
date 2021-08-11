@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-<img height="500px" src="./img/gitHubBanner.jpg">
+<img height="350px" src="./img/gitHubBanner.jpg">
 </div>
 
 <h2 align="center"> Welcome to my GitHub.</h2>
