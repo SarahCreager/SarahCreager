@@ -1,6 +1,3 @@
-<div align="center"><img src="https://media.giphy.com/media/eX6payp4mjhXwPocoX/giphy.gif" width="120px">
-</div>
-
 <div align="center">
 <img width="700px" src="./img/GitHubBanner.png">
 </div>
