@@ -1,8 +1,8 @@
 <div align="center">
-<img width="700px" src="./img/GitHubBanner.png">
+<img width="700px" src="./img/GitHubBannerImg.png">
 </div>
 
-<h2 align="center"> Welcome to my GitHub.</h2>
+<h2 align="center"> Hello! Welcome to my GitHub.</h2>
 
 
 <div align="center">
@@ -12,4 +12,5 @@
 </div>
 
 ---------------------
+
 
